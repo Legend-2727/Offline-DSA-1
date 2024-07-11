@@ -1,0 +1,2 @@
+3
+The inverted pairs are: (2,1),(4,1),(4,3)
